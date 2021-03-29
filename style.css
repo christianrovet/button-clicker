@@ -1,0 +1,15 @@
+h1{
+    font-family: Trebuchet MS;
+    font-size: 40px;
+}
+.btn{
+    background-color: rgb(25, 124, 180);
+    width: 300px;
+    height: 35px;
+    font-family: Trebuchet MS;
+    color:white;
+    font-weight: bold;
+    font-size: 18px;
+    align-self: center;
+    margin-right: 20%;
+}
